@@ -619,6 +619,21 @@
         <mxCell id="esOs0F_GQpXQHo-ZeAvU-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;С.-Петербург&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="1042" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="esOs0F_GQpXQHo-ZeAvU-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Чокурадах&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="40" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esOs0F_GQpXQHo-ZeAvU-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Лабытнанги&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="-100" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esOs0F_GQpXQHo-ZeAvU-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Триада&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-210" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esOs0F_GQpXQHo-ZeAvU-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Ламас&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="110" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esOs0F_GQpXQHo-ZeAvU-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Китрон&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-230" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
