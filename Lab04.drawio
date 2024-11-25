@@ -649,6 +649,12 @@
         <mxCell id="ODkZMxQO3oIE4vTFJUWH-6" value="&lt;i&gt;&lt;b&gt;EtherChannel&lt;/b&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-380" y="625" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ODkZMxQO3oIE4vTFJUWH-7" value="10.0.10.1/24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-503" y="1072" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ODkZMxQO3oIE4vTFJUWH-8" value="10.0.20.1/24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
