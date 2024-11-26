@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Page-1" id="XfyR6ljDPPWZCooTb3Pp">
-    <mxGraphModel dx="2927" dy="2281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -344,10 +344,10 @@
           <mxGeometry x="767" y="670" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qq-jrD-yqYWrXCZJZRmo-128" value="SW9" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="800" width="60" height="30" as="geometry" />
+          <mxGeometry x="355" y="860" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qq-jrD-yqYWrXCZJZRmo-129" value="SW10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="680" y="800" width="60" height="30" as="geometry" />
+          <mxGeometry x="545" y="860" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qq-jrD-yqYWrXCZJZRmo-131" value="VPC8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="1030" width="60" height="30" as="geometry" />
@@ -762,6 +762,12 @@
         </mxCell>
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-59" value="172.0.30.1/24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="710" y="645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bj7Igq3FW9euVvHWEe8Z-60" value="VLAN 200&amp;nbsp; MGNT&lt;div&gt;192.168.1.100/24&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="805" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bj7Igq3FW9euVvHWEe8Z-62" value="VLAN 200&amp;nbsp; MGNT&lt;div&gt;192.168.1.101/24&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="685" y="805" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
