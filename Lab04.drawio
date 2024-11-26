@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Page-1" id="XfyR6ljDPPWZCooTb3Pp">
-    <mxGraphModel dx="2927" dy="2281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3452" dy="2559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -629,7 +629,7 @@
           <mxGeometry x="390" y="-210" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="esOs0F_GQpXQHo-ZeAvU-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Ламас&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="35" y="110" width="170" height="30" as="geometry" />
+          <mxGeometry x="-120" y="-50" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="esOs0F_GQpXQHo-ZeAvU-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Китрон&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-490" y="-230" width="170" height="30" as="geometry" />
@@ -789,6 +789,24 @@
         </mxCell>
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-72" value="Interface Loopback1&lt;div&gt;10.1.1.6/24&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bj7Igq3FW9euVvHWEe8Z-73" value="Interface Loopback1&lt;div&gt;10.1.1.20/24&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-460" y="-160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bj7Igq3FW9euVvHWEe8Z-74" value="Interface Loopback1&lt;div&gt;10.1.1.30/24&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bj7Igq3FW9euVvHWEe8Z-75" value="Interface Loopback1&lt;div&gt;10.1.1.31/24&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="350" y="-120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bj7Igq3FW9euVvHWEe8Z-76" value="Interface Loopback1&lt;div&gt;10.1.1.32/24&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="485" y="-120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bj7Igq3FW9euVvHWEe8Z-77" value="Interface Loopback1&lt;div&gt;10.1.1.33/24&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="350" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bj7Igq3FW9euVvHWEe8Z-78" value="Interface Loopback1&lt;div&gt;10.1.1.34/24&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="485" y="100" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
