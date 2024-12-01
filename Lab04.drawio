@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1">
   <diagram name="Page-1" id="XfyR6ljDPPWZCooTb3Pp">
-    <mxGraphModel dx="4082" dy="4064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4409" dy="4208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-2240" y="-1170" width="900" height="960" as="geometry" />
         </mxCell>
         <mxCell id="qq-jrD-yqYWrXCZJZRmo-111" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="-1380" width="450" height="630" as="geometry" />
+          <mxGeometry x="-520" y="-1380" width="450" height="650" as="geometry" />
         </mxCell>
         <mxCell id="qq-jrD-yqYWrXCZJZRmo-108" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-480" y="-1570" width="230" height="160" as="geometry" />
@@ -834,6 +834,12 @@
         </mxCell>
         <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-8" value="&lt;br&gt;&lt;div&gt;e0/2.20 192.168.20.1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-360" y="-1280" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-9" value="GW: 10.20.10.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2021.5" y="-250" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-11" value="GW: 10.20.2&lt;span style=&quot;background-color: initial;&quot;&gt;0.1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1750" y="-250" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
