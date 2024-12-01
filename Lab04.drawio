@@ -718,9 +718,6 @@
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-30" value="176.192.174.1/29" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-590" y="-1520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bj7Igq3FW9euVvHWEe8Z-31" value="VLAN 200&amp;nbsp; MGNT&lt;div&gt;192.168.1.2/24&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1605" y="-725" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-35" value="VLAN 200&lt;div&gt;192.168.1.3/24&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-2160" y="-560" width="110" height="30" as="geometry" />
         </mxCell>
@@ -828,6 +825,9 @@
         </mxCell>
         <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-1" value="SVI: Switch Virtual Interface" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2220" y="-160" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-2" value="SVI: 10.20.20.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="-720" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
