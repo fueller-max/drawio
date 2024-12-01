@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="XfyR6ljDPPWZCooTb3Pp">
-    <mxGraphModel dx="4946" dy="4642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4026" dy="4168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -823,8 +823,8 @@
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-90" value="Interface Loopback1&lt;div&gt;10.1.1.63/24&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-690" y="-575" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-1" value="SVI: Switch Virtual Interface" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2220" y="-160" width="160" height="30" as="geometry" />
+        <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-1" value="SVI: Switch Virtual Interface" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-2220" y="-160" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-2" value="SVI: 10.20.20.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1580" y="-720" width="110" height="30" as="geometry" />
