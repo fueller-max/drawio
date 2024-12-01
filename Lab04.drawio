@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1">
   <diagram name="Page-1" id="XfyR6ljDPPWZCooTb3Pp">
-    <mxGraphModel dx="5099" dy="4510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4887" dy="4417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -640,12 +640,6 @@
         <mxCell id="ODkZMxQO3oIE4vTFJUWH-3" value="&lt;b&gt;VLAN 20&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1710" y="-308" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ODkZMxQO3oIE4vTFJUWH-4" value="Access layer (L2 SW)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontFamily=Comic Sans MS;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="-1445" y="-570" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ODkZMxQO3oIE4vTFJUWH-5" value="Distr. layer (L3 SW)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontFamily=Comic Sans MS;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="-1445" y="-730" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ODkZMxQO3oIE4vTFJUWH-6" value="&lt;i&gt;&lt;b&gt;EtherChannel&lt;/b&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1860" y="-725" width="90" height="30" as="geometry" />
         </mxCell>
@@ -826,8 +820,14 @@
         <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-1" value="SVI: Switch Virtual Interface" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2220" y="-160" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-2" value="SVI: 10.20.20.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1580" y="-720" width="110" height="30" as="geometry" />
+        <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-2" value="SVI: 10.20.10.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1580" y="-735" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-3" value="SVI: 10.20.20.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2156.5" y="-695" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-4" value="SVI: 10.20.20.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1580" y="-715" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
