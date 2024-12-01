@@ -640,12 +640,6 @@
         <mxCell id="ODkZMxQO3oIE4vTFJUWH-3" value="&lt;b&gt;VLAN 20&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1710" y="-308" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ODkZMxQO3oIE4vTFJUWH-4" value="Access layer (L2 SW)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontFamily=Comic Sans MS;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="-1445" y="-570" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ODkZMxQO3oIE4vTFJUWH-5" value="Distr. layer (L3 SW)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontFamily=Comic Sans MS;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="-1445" y="-730" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ODkZMxQO3oIE4vTFJUWH-6" value="&lt;i&gt;&lt;b&gt;EtherChannel&lt;/b&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1860" y="-725" width="90" height="30" as="geometry" />
         </mxCell>
