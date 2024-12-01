@@ -620,7 +620,7 @@
           <mxGeometry x="-780" y="-308" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="esOs0F_GQpXQHo-ZeAvU-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Чокурадах&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-270" y="-1310" width="170" height="30" as="geometry" />
+          <mxGeometry x="-250" y="-1340" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="esOs0F_GQpXQHo-ZeAvU-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Лабытнанги&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-420" y="-1450" width="170" height="30" as="geometry" />
@@ -828,6 +828,12 @@
         </mxCell>
         <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-4" value="SVI: 10.20.20.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1580" y="-715" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-5" value="&lt;br&gt;&lt;div&gt;192.168.1.1/29&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-330" y="-1250" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-6" value="SVI: 10.20.10.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="-1230" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
