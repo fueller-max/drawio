@@ -845,10 +845,10 @@
           <mxGeometry x="-2185" y="-725" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MKeGCASAuHmVMXB3YQ1J-13" value="SVI: 10.20.10.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1595" y="-725" width="110" height="30" as="geometry" />
+          <mxGeometry x="-1600" y="-740" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MKeGCASAuHmVMXB3YQ1J-14" value="SVI: 10.20.20.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1595" y="-705" width="110" height="30" as="geometry" />
+          <mxGeometry x="-1600" y="-720" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
