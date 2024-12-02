@@ -299,7 +299,7 @@
           <mxGeometry x="-1710" y="-338" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qq-jrD-yqYWrXCZJZRmo-112" value="R22" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1780" y="-1550" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1915" y="-1540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qq-jrD-yqYWrXCZJZRmo-113" value="R21" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1450" y="-1380" width="60" height="30" as="geometry" />
@@ -775,10 +775,10 @@
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-72" value="Interface Loopback0&lt;div&gt;10.20.105.1/32&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1500" y="-820" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bj7Igq3FW9euVvHWEe8Z-73" value="Interface Loopback1&lt;div&gt;10.1.1.20/24&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="bj7Igq3FW9euVvHWEe8Z-73" value="Interface Loopback0&lt;div&gt;10.3.3.1/32&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1940" y="-1510" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bj7Igq3FW9euVvHWEe8Z-74" value="Interface Loopback1&lt;div&gt;10.1.1.30/24&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="bj7Igq3FW9euVvHWEe8Z-74" value="Interface Loopback1&lt;div&gt;10.3.2.1/32&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1420" y="-1270" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-75" value="Interface Loopback 0&lt;div&gt;10.60.100.1/32&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
