@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="XfyR6ljDPPWZCooTb3Pp">
-    <mxGraphModel dx="4308" dy="4168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3678" dy="3890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -302,7 +302,7 @@
           <mxGeometry x="-1915" y="-1540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qq-jrD-yqYWrXCZJZRmo-113" value="R21" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1450" y="-1380" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1390" y="-1280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qq-jrD-yqYWrXCZJZRmo-114" value="R23" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1186" y="-1580" width="60" height="30" as="geometry" />
@@ -779,7 +779,7 @@
           <mxGeometry x="-1940" y="-1510" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-74" value="Interface Loopback1&lt;div&gt;10.3.2.1/32&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1420" y="-1270" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1420" y="-1250" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-75" value="Interface Loopback 0&lt;div&gt;10.60.100.1/32&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1217" y="-1550" width="130" height="30" as="geometry" />
