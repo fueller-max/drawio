@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="XfyR6ljDPPWZCooTb3Pp">
-    <mxGraphModel dx="4132" dy="4223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4946" dy="4642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -719,7 +719,7 @@
           <mxGeometry x="-1590" y="-560" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-40" value="176.192.160.0/29" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1975" y="-1280" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2000" y="-1200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-41" value="176.192.165.0/29" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1650" y="-1200" width="60" height="30" as="geometry" />
@@ -818,7 +818,7 @@
           <mxGeometry x="-690" y="-575" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-1" value="SVI: Switch Virtual Interface" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2220" y="-160" width="160" height="30" as="geometry" />
+          <mxGeometry x="-2190" y="-675" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-2" value="SVI: 10.20.10.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1600" y="-735" width="110" height="30" as="geometry" />
@@ -848,7 +848,7 @@
           <mxGeometry x="-250" y="-770" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1xiK3Q4PLN8H3Hwky3Ew-15" value="10.20.0.0/16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="-2320" y="-1180" width="100" height="30" as="geometry" />
+          <mxGeometry x="-1475" y="-280" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TYOheM1xb-WlWXxeImTP-1" value="Sub Int." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-210" y="-1300" width="60" height="30" as="geometry" />
@@ -888,9 +888,6 @@
         </mxCell>
         <mxCell id="TYOheM1xb-WlWXxeImTP-17" value=".2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1740" y="-910" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TYOheM1xb-WlWXxeImTP-18" value=".2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2310" y="-1310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TYOheM1xb-WlWXxeImTP-19" value=".1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1630" y="-1050" width="60" height="30" as="geometry" />
