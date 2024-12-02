@@ -335,7 +335,7 @@
           <mxGeometry x="-920" y="-924" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qq-jrD-yqYWrXCZJZRmo-125" value="R17" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1245" y="-730" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1230" y="-790" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qq-jrD-yqYWrXCZJZRmo-126" value="R16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-820" y="-790" width="60" height="30" as="geometry" />
@@ -803,7 +803,7 @@
           <mxGeometry x="-946" y="-894" width="136" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-88" value="Interface Loopback 0&lt;div&gt;176.16.101.1/32&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1288.5" y="-705" width="130" height="30" as="geometry" />
+          <mxGeometry x="-1270" y="-765" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-89" value="Interface Loopback 0&lt;div&gt;172.16.102.1/32&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-850" y="-770" width="130" height="30" as="geometry" />
