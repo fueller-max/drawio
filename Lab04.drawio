@@ -1010,7 +1010,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oDRGA9JhE2Mkris2mWXF" name="OSPF">
-    <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1504,6 +1504,9 @@
         </mxCell>
         <mxCell id="-PkWs95KIpmyidOjvtan-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Area 101&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=314;" vertex="1" parent="1">
           <mxGeometry x="584.8199999999999" y="2380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LyijjPKJuZCEXAUZbg-z-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Area 102&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=41;" vertex="1" parent="1">
+          <mxGeometry x="1079.9964318234397" y="2370.003467570431" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
