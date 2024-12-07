@@ -1347,10 +1347,10 @@
           <mxGeometry x="1090" y="2780" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pTzmllvj2QBVXcbLlFcE-107" value="176.192.160.0/29" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=293;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="728.5" y="2100" width="60" height="30" as="geometry" />
+          <mxGeometry x="750" y="2040" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pTzmllvj2QBVXcbLlFcE-108" value="176.192.165.0/29" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1030" y="2140" width="60" height="30" as="geometry" />
+          <mxGeometry x="1130" y="2060" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pTzmllvj2QBVXcbLlFcE-109" value="10.20.1.0/29" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;rotation=314;" parent="1" vertex="1">
           <mxGeometry x="580" y="2340" width="60" height="30" as="geometry" />
