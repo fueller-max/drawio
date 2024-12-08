@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="2">
   <diagram name="Basic IP plan" id="XfyR6ljDPPWZCooTb3Pp">
     <mxGraphModel dx="5687" dy="4776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1010,7 +1010,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oDRGA9JhE2Mkris2mWXF" name="OSPF">
-    <mxGraphModel dx="1969" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1525,6 +1525,9 @@
         </mxCell>
         <mxCell id="LyijjPKJuZCEXAUZbg-z-7" value=".2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="2220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VAiBGOErnDL4E2m4I6n--1" value="k&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="2260" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
