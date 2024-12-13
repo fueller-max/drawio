@@ -1530,7 +1530,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Xw8seoO-8Fllfyf4UKE8" name="ISIS">
-    <mxGraphModel dx="3534" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4026" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1604,7 +1604,7 @@
           <mxGeometry x="-1570" y="940" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pMbymUuYsfWvH_f8orMV-33" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Триада&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1760" y="750" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1763.5" y="730" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pMbymUuYsfWvH_f8orMV-35" value="10.60.0.0/29" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1700" y="790" width="60" height="30" as="geometry" />
