@@ -1651,7 +1651,7 @@
         <mxCell id="3ggML9lr-Dc_XUEXHcyd-70" value="L2&amp;nbsp; - Link" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1760" y="1180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3ggML9lr-Dc_XUEXHcyd-71" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+        <mxCell id="3ggML9lr-Dc_XUEXHcyd-71" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1852" y="1240" as="sourcePoint" />
             <mxPoint x="-1782" y="1240" as="targetPoint" />
