@@ -1718,7 +1718,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yqIb6T0xP_MRqvEblpsf" name="EIGRP">
-    <mxGraphModel dx="1594" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2013,6 +2013,12 @@
             <mxPoint x="1120" y="410" as="sourcePoint" />
             <mxPoint x="1170" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iNgmGZsVFVPnZGO4exMY-98" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;AS2042&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="316" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iNgmGZsVFVPnZGO4exMY-99" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="550" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
