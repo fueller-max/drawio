@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6" pages="5">
   <diagram name="Basic IP plan" id="XfyR6ljDPPWZCooTb3Pp">
-    <mxGraphModel dx="3586" dy="3942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4132" dy="4223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -697,11 +697,11 @@
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-23" value="10.60.4.0/29" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-923.5" y="-1410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bj7Igq3FW9euVvHWEe8Z-24" value="176.192.170.0/29" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1158.5" y="-1030" width="60" height="30" as="geometry" />
+        <mxCell id="bj7Igq3FW9euVvHWEe8Z-24" value="176.192.168.12/30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-1169" y="-1070" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-25" value="176.192.171.0&lt;span style=&quot;background-color: initial;&quot;&gt;/29&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-916" y="-1030" width="60" height="30" as="geometry" />
+          <mxGeometry x="-890" y="-1070" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-28" value="176.192.168.4/30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1480" y="-1510" width="60" height="30" as="geometry" />
