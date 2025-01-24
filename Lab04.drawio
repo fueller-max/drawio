@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6" pages="5">
   <diagram name="Basic IP plan" id="XfyR6ljDPPWZCooTb3Pp">
-    <mxGraphModel dx="4946" dy="4642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3074" dy="3678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -479,7 +479,7 @@
           <mxGeometry x="-1065" y="-915" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qq-jrD-yqYWrXCZJZRmo-186" value="e0/3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-990" y="-915" width="60" height="30" as="geometry" />
+          <mxGeometry x="-983.5" y="-915" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qq-jrD-yqYWrXCZJZRmo-187" value="e0/0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-870" y="-670" width="60" height="30" as="geometry" />
@@ -1046,7 +1046,7 @@
           <mxGeometry x="-730" y="-680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzvG0pODun-zycXAHdcF-15" value=".18" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-983.5" y="-940" width="60" height="30" as="geometry" />
+          <mxGeometry x="-980" y="-945" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzvG0pODun-zycXAHdcF-16" value=".14" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1075" y="-945" width="60" height="30" as="geometry" />
