@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.8" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="5">
   <diagram name="Basic IP plan" id="XfyR6ljDPPWZCooTb3Pp">
-    <mxGraphModel dx="4388" dy="4354" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3493" dy="3809" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -847,8 +847,8 @@
         <mxCell id="TYOheM1xb-WlWXxeImTP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="bj7Igq3FW9euVvHWEe8Z-72" target="bj7Igq3FW9euVvHWEe8Z-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYOheM1xb-WlWXxeImTP-6" value="10.20.10.252/24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-2021.5" y="-825" width="60" height="30" as="geometry" />
+        <mxCell id="TYOheM1xb-WlWXxeImTP-6" value="10.20.8.0/30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-2019" y="-807" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TYOheM1xb-WlWXxeImTP-7" value="10.20.20.252/24" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1870" y="-855" width="60" height="30" as="geometry" />
@@ -1104,6 +1104,12 @@
         </mxCell>
         <mxCell id="bj7Igq3FW9euVvHWEe8Z-29" value="176.192.168.8/30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1355" y="-1340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q4YgHbdS4np18klVyJCg-1" value=".1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1990" y="-834" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q4YgHbdS4np18klVyJCg-2" value=".2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1990" y="-782" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
