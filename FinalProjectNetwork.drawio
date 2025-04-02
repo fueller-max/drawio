@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="GeneralPlan" id="aJayt57O8sXawXul8Umm">
-    <mxGraphModel dx="2868" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="552" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,7 +172,7 @@
         <mxCell id="BCkx3oVRZh2mKSqZO-g1-56" value="" style="shape=mxgraph.cisco.computers_and_peripherals.workstation;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1650" y="938" width="83" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="BCkx3oVRZh2mKSqZO-g1-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0.755;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.16;exitY=0.23;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BCkx3oVRZh2mKSqZO-g1-5" target="BCkx3oVRZh2mKSqZO-g1-41">
+        <mxCell id="BCkx3oVRZh2mKSqZO-g1-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0.755;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BCkx3oVRZh2mKSqZO-g1-5" target="BCkx3oVRZh2mKSqZO-g1-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1160" y="1060" as="sourcePoint" />
             <mxPoint x="1210" y="1010" as="targetPoint" />
