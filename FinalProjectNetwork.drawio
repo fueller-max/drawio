@@ -172,6 +172,30 @@
         <mxCell id="BCkx3oVRZh2mKSqZO-g1-56" value="" style="shape=mxgraph.cisco.computers_and_peripherals.workstation;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1650" y="938" width="83" height="62" as="geometry" />
         </mxCell>
+        <mxCell id="BCkx3oVRZh2mKSqZO-g1-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0.755;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.16;exitY=0.23;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BCkx3oVRZh2mKSqZO-g1-5" target="BCkx3oVRZh2mKSqZO-g1-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="1060" as="sourcePoint" />
+            <mxPoint x="1210" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCkx3oVRZh2mKSqZO-g1-61" value="" style="endArrow=none;html=1;rounded=0;exitX=0.755;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BCkx3oVRZh2mKSqZO-g1-42" target="BCkx3oVRZh2mKSqZO-g1-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="980" as="sourcePoint" />
+            <mxPoint x="970" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCkx3oVRZh2mKSqZO-g1-62" value="" style="endArrow=none;html=1;rounded=0;exitX=0.755;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BCkx3oVRZh2mKSqZO-g1-43" target="BCkx3oVRZh2mKSqZO-g1-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="970" as="sourcePoint" />
+            <mxPoint x="960" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCkx3oVRZh2mKSqZO-g1-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.755;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BCkx3oVRZh2mKSqZO-g1-44" target="BCkx3oVRZh2mKSqZO-g1-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="970" as="sourcePoint" />
+            <mxPoint x="960" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
