@@ -867,7 +867,7 @@
         <mxCell id="m06MIfI2dWVc0Mw8Iy3m-4" value="VLAN 100(MGM_VLan) : 172.16.100.10/24&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="236" y="-1925" width="287" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m06MIfI2dWVc0Mw8Iy3m-5" value="VLAN 100(MGM_VLan) : 172.16.100.20/24&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="m06MIfI2dWVc0Mw8Iy3m-5" value="VLAN 100(MGM_VLan) : 172.16.100.11&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;/24&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="249" y="-1652" width="287" height="30" as="geometry" />
         </mxCell>
       </root>
