@@ -398,7 +398,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="isExxfQbVCI8YMbnBfBU" name="L3_plan">
-    <mxGraphModel dx="2564" dy="4633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1484" dy="4072" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -860,6 +860,12 @@
         </mxCell>
         <mxCell id="DSlpQr-AqmQAjo31z4k8-3" value=".10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1379.5" y="-2696" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlpQr-AqmQAjo31z4k8-4" value="Lo0:10.1.1.1/32" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1112" y="-2610" width="112" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="DSlpQr-AqmQAjo31z4k8-5" value="Lo0:10.2.2.2/32" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1417" y="-2612" width="112" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
