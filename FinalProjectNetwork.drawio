@@ -910,7 +910,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7WFiWLgNWX4I2R6fzhiV" name="GRE_OSPF">
-    <mxGraphModel dx="3570" dy="5158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2380" dy="4538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1025,7 +1025,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kgGf80QVdAavnFOHY6UP-20" value="GRE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="kgGf80QVdAavnFOHY6UP-20" value="GRE2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1245" y="-2544" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kgGf80QVdAavnFOHY6UP-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.12;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;exitX=0.88;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cWVmZ_KwKIY3s2al6bPg-4" target="cWVmZ_KwKIY3s2al6bPg-27">
@@ -1037,8 +1037,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kgGf80QVdAavnFOHY6UP-22" value="GRE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="kgGf80QVdAavnFOHY6UP-22" value="GRE1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1120" y="-2671" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GxspI4HLCVVNrI5XX-i-1" value="GRE1: 101.0.1.0/24&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1117" y="-2288" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GxspI4HLCVVNrI5XX-i-3" value="GRE2: 101.0.2.0/24&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1117" y="-2237" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
