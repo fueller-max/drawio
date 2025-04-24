@@ -398,7 +398,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="isExxfQbVCI8YMbnBfBU" name="L3_plan">
-    <mxGraphModel dx="2040" dy="4361" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1428" dy="4043" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -906,14 +906,29 @@
         <mxCell id="Fr1tyCnbA4XJBsPczhJb-25" value="Lo0:172.16.101.1/32" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1725" y="-2408.5" width="112" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="wKlLGmwe7mZylkpTE4hC-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;192.168.1.0&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;/24&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wKlLGmwe7mZylkpTE4hC-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;192.168.1.0&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;/24&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2135" y="-1970" width="112" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="wKlLGmwe7mZylkpTE4hC-2" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;172.16.3.141&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wKlLGmwe7mZylkpTE4hC-2" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;172.16.3.141&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1482" y="-1824" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wKlLGmwe7mZylkpTE4hC-3" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;172.16.3.201&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wKlLGmwe7mZylkpTE4hC-3" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;172.16.3.201&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1482" y="-1641" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="THrg802d0qD1yoqcNCNy-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="714" y="-2240" as="sourcePoint" />
+            <mxPoint x="877.0000000000002" y="-2240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="THrg802d0qD1yoqcNCNy-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="714" y="-2215.24" as="sourcePoint" />
+            <mxPoint x="877" y="-2215.24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="THrg802d0qD1yoqcNCNy-4" value="Port Channel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="752" y="-2241" width="98" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
