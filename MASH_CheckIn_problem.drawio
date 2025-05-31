@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="-bln_44pANnT28QDtfuJ">
-    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,6 +167,42 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1083" y="1320" as="sourcePoint" />
             <mxPoint x="980" y="1483.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIuBFDOwgX5WXiNWos2v-46" value="Оператор нажимает кнопку Dispatch. Поскольку конвейера&amp;nbsp; заняты, движения не проихсодит, однако взводится внутренний бит dispatchAcknowledged" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1115" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xIuBFDOwgX5WXiNWos2v-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xIuBFDOwgX5WXiNWos2v-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="1200" as="sourcePoint" />
+            <mxPoint x="1107" y="1363.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIuBFDOwgX5WXiNWos2v-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xIuBFDOwgX5WXiNWos2v-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="1460" as="sourcePoint" />
+            <mxPoint x="1127" y="1623.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIuBFDOwgX5WXiNWos2v-49" value="После того, как 1-ая БЕ забирается на собирающий конвейер, 2-ая БЕ начинает движение автоматически до срабатывания датчика последнего датчика и становится на запрос на собирающий конвейер." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1481.25" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xIuBFDOwgX5WXiNWos2v-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xIuBFDOwgX5WXiNWos2v-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1405" y="1520" as="sourcePoint" />
+            <mxPoint x="1230" y="1648.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIuBFDOwgX5WXiNWos2v-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.777;entryY=0.394;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xIuBFDOwgX5WXiNWos2v-49" target="xIuBFDOwgX5WXiNWos2v-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670" y="1460" as="sourcePoint" />
+            <mxPoint x="1565" y="1378.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIuBFDOwgX5WXiNWos2v-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xIuBFDOwgX5WXiNWos2v-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1530" y="1290" as="sourcePoint" />
+            <mxPoint x="1280" y="1470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
