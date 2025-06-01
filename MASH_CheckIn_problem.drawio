@@ -229,7 +229,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yKzDJzMS_4wReRSuYJNJ" name="Test Framework">
-    <mxGraphModel dx="7930" dy="4675" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3177" dy="2092" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,7 +273,7 @@
           <mxGeometry x="878" y="1238" width="383" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Bp7ck1FTRzybTFueRTzK-11" value="!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1662" y="-297" width="60" height="30" as="geometry" />
+          <mxGeometry x="1815" y="-445" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bp7ck1FTRzybTFueRTzK-12" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b style=&quot;&quot;&gt;1.Для удобства тестирования проект был сконвертирован под 1500 CPU для возможности полноценного использования возможностей TIA (Traces) и PLC Advanced&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="753" y="-620" width="769" height="85" as="geometry" />
@@ -301,6 +301,12 @@
         </mxCell>
         <mxCell id="Bp7ck1FTRzybTFueRTzK-17" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b style=&quot;&quot;&gt;3.Использование VAT таблиц и Traces для управления, мониторинга и записи для анализа данных&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="133" y="2028" width="769" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp7ck1FTRzybTFueRTzK-18" value="&lt;font style=&quot;font-size: 20px; color: rgb(0, 0, 102);&quot;&gt;Технически можно было бы использовать и проект для S7-400 с использованием WinAC и PLC Analyzer (в виде отдельных виртуальных машин)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1669" y="-467" width="563" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="Bp7ck1FTRzybTFueRTzK-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="-461" width="608" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
